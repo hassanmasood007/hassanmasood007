@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on Front-End Web Development
+- 🔭 I’m currently working on Front-End Web Development Apps
 - 🌱 I’m currently learning Nextjs
 - 👯 I’m looking to collaborate on making smart and innovative web applications
 - 📫 How to reach me: https://www.linkedin.com/in/hassan-masood-296a421b9/
