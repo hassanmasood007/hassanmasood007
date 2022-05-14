@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="left">About me:</h3>
+<h3 align="left">About me: </h3>
 
 - 🔭 I’m currently working on Full Stack Web Development Apps
 - 🌱 I’m currently learning Nextjs
