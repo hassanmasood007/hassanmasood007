@@ -2,7 +2,7 @@
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on Full Stack Web Development Apps
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning Nextjs, Amazon Web Services
 - 👯 I’m looking to collaborate on making smart and innovative web applications
 - 📫 How to reach me: https://www.linkedin.com/in/hassan-masood-296a421b9/
 
